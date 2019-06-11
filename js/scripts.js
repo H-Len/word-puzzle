@@ -24,7 +24,6 @@ $(document).ready(function() {
 
     console.log(backResult);
 
-    // console.log(wordsInput);
 
     event.preventDefault();
   });
