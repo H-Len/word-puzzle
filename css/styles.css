@@ -1,0 +1,8 @@
+#jumble {
+  display: none;
+  font-size: 60px;
+  background-color: red;
+  border: solid black 3px;
+  padding: 15px;
+  margin: 15px;
+}
